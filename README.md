@@ -2,8 +2,8 @@
 
 👨‍🎓 I graduated from CentraleSupélec Paris. I studied 📚 many field, among them:
 
-➕   Algebra.
-📈   Mathematical Analysis.
+*➕   Algebra.
+*📈   Mathematical Analysis.
 📊  Advanced probabilities.
 〰️  Signal processing.
 🪐  Physics.
