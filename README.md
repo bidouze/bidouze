@@ -4,17 +4,17 @@
 
 * ➕   Algebra.
 * 📈   Mathematical Analysis.
-📊  Advanced probabilities.
-〰️  Signal processing.
-🪐  Physics.
-📶  Electromagnetic waves and communications.
-⌨️  ​Algorithms.
-⚙️  Optimization.
-💻 ​Machine Learning and Deep learning.
-🎮  Reinforcement Learning.
-👁️‍🗨️  Computer Visoin.
-📖  Natural Language Processing.
-🎛️  Distributed systems.
+* 📊  Advanced probabilities.
+* 〰️  Signal processing.
+* 🪐  Physics.
+* 📶  Electromagnetic waves and communications.
+* ⌨️  ​Algorithms.
+* ⚙️  Optimization.
+* 💻 ​Machine Learning and Deep learning.
+* 🎮  Reinforcement Learning.
+* 👁️‍🗨️  Computer Visoin.
+* 📖  Natural Language Processing.
+* 🎛️  Distributed systems.
 
 
 <!---
