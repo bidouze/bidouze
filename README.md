@@ -16,6 +16,11 @@
 * 📖  Natural Language Processing.
 * 🎛️  Distributed systems.
 
+I have centered my studies around 🤖 ​AI​ & ​Machine Learning​
+
+🚀 I am currently updating my github to include relevant projects in DataScience & Blockchain Smart Contracts.
+
+😄 Do not hesitate to contact me through [Linkedin] (https://www.linkedin.com/in/othmane-baddou/)
 
 <!---
 bidouze/bidouze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
