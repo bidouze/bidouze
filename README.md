@@ -1,6 +1,6 @@
 👋 Hi, I’m @bidouze but you can call me Othmane ! 
 
-👨‍🎓 I graduated from CentraleSupélec Paris. I studied 📚 many field, among them:
+👨‍🎓 I graduated from CentraleSupélec Paris. I studied 📚 many fields, among them:
 
 * ➕   Algebra.
 * 📈   Mathematical Analysis.
